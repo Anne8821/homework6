@@ -10,7 +10,7 @@ public class Main {
             sum += amount;
             sum = (int) (sum * (1 + percent));
             month++;
-            System.out.println("Месяц " + month + ", сумма накоплений равна " + sum + " рублей");
+            System.out.println("Месяц " + month + ", сумма накоплений равна " + sum + " рублей.");
         }
         System.out.println("Задача 2");
         int number = 0;
